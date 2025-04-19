@@ -1,0 +1,1 @@
+C:\Users\cicer\Documents\progetti yt\flutter\esp32_cam\esp32_cam\build\app\intermediates\cxx\RelWithDebInfo\3v5u2l6i\obj\x86_64

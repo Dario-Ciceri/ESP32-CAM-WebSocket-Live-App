@@ -1,0 +1,2 @@
+C:/Users/cicer/Documents/progetti yt/flutter/esp32_cam/esp32_cam/android/app/.cxx/RelWithDebInfo/3v5u2l6i/x86/CMakeFiles/edit_cache.dir
+C:/Users/cicer/Documents/progetti yt/flutter/esp32_cam/esp32_cam/android/app/.cxx/RelWithDebInfo/3v5u2l6i/x86/CMakeFiles/rebuild_cache.dir
