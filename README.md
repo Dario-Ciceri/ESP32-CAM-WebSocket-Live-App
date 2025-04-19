@@ -1,3 +1,1 @@
-# esp32_cam
-
-A new Flutter project.
+# ESP32-CAM-WebSocket-Live-App
